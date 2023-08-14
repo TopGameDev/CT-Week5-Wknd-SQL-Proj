@@ -5,6 +5,7 @@ In this assignment I learned how to create a database from the planning phase of
 We used a platform called DBeaver to write our SQL DDL and DML code.
 
 I enjoyed this project because I got to see how data is related to each other in the backend of a website. Also how websites keep track of data.
+<hr>
 
 ![DML](photo_1.jpeg)
 <hr>
